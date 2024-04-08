@@ -15,6 +15,6 @@ Part of my interest in creating this was to see how Next 14 and server component
 
 ## Potential improvements
 
--One of the benefits of using tailwind with shadcn is the easy of configuring a design system. I did not utilize this feature in this repo (thus far) but it's a powerful way (if done right) to obtain visual consistency across the UI.
+- One of the benefits of using tailwind with shadcn is the easy of configuring a design system. I did not utilize this feature in this repo (thus far) but it's a powerful way (if done right) to obtain visual consistency across the UI.
 
 - I have not considered responsive design in this experiment which would be a substantial improvement.
